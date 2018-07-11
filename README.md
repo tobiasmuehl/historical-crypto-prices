@@ -19,8 +19,7 @@ Proxies. Lots of them.
 - Python 3.6.0 (recommended to use [pyenv](https://github.com/pyenv/pyenv))
 - pip modules [`proxybroker`](https://github.com/constverum/ProxyBroker), [`ccxt`](https://github.com/ccxt/ccxt), `redis`
 - redis _or_ docker
-
-*Setup Python + packages on Ubuntu:*
+__Setup Python + packages on Ubuntu:__
 
 ```sh
 sudo apt-get install -y make build-essential libssl-dev zlib1g-dev libbz2-dev \
